@@ -20,6 +20,7 @@ PKGS=(sdk openlibm libcxx openmp fast_float
       SDL2 SDL2_mixer SDL2_ttf SDL2_image SDL2_net SDL2_gfx
       imgui lua luajit curl ffmpeg SDL2_kitchensink
       llvm mesa
+      openal
       shsrv # for prospero-shsrv-shell
       websrv # for prospero-websrv-elfldr
      )

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PKGS=(sdk openlibm libcxx openmp fast_float
+PKGS=(sdk openlibm libcxx openmp fast_float fmt
       bzip2 zlib libminizip xz zstd libarchive libdeflate
       openssl libssh
       libevent libiconv libfribidi libpsl
